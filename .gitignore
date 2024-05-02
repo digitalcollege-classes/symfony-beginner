@@ -8,3 +8,4 @@
 /vendor/
 ###< symfony/framework-bundle ###
 docker-compose.override.yaml
+/.idea
